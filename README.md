@@ -1,1 +1,1 @@
-# Leetcode-Solutions-2022
+# Leetcode-Solutions
